@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+    padding: 10px;
+}
+
+header a {
+ text-decoration: none ;
+ border: 1px solid red;
+ border-radius: 5px;
+ padding: 2px;
+}
+
+h1 {
+    color: aquamarine;
+    background-color: rgb(0, 47, 255);
+}
+
+footer {
+    background-color: cornflowerblue;
+}
+footer p {
+    color:rgb(23, 43, 23);
+}
+
+nav {
+    background-color: rgb(0, 255, 149) ;
+}
+
+nav a {
+    margin: 61px ;
+    font-size: 20px ;
+    text-decoration: none ;
+    color: rgb(0, 162, 255);
+    text-align: center;
+}
+
+ktoprositaltotlox {
+    background-color: blue;
+}
